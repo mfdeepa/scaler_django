@@ -1,0 +1,8 @@
+1. create django project
+2. what is installed_aps
+3. role of middleware
+4. why DEBUG is True
+5. change the name of database
+6. run migrate command
+7. create superuser
+8. create app name bingo
