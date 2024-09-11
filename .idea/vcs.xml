@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lect_02/ecomdemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lect_03/lect_03" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lect_04/ecomapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lect_05/ecom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/splitwise/djangoProject" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+mysql -u root -p
+CREATE DATABASE splitwise;
+CREATE USER root@'localhost' IDENTIFIED BY 'Deepa@123';
+GRANT ALL PRIVILEGES ON splitwise.* TO 'root'@'localhost';
+FLUSH PRIVILEGES;
